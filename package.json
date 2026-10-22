@@ -1,0 +1,31 @@
+{
+  "name": "ai-job-search-localai",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <img src=\"assets/mascot/pip_flight_loop.gif\" alt=\"Pip, the courier bird\" width=\"200\">\r </p>",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangphivo97/ai-job-search-localAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangphivo97/ai-job-search-localAI/issues"
+  },
+  "homepage": "https://github.com/hoangphivo97/ai-job-search-localAI#readme",
+  "dependencies": {
+    "dotenv": "^18.0.8"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^7.0.2"
+  }
+}
